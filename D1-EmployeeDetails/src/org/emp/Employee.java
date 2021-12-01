@@ -11,7 +11,6 @@ public class Employee {
 	public void empName() {
 		// TODO Auto-generated method stub
 		System.out.println("Employee Name is Lakshmi");
-
 	}
 	
 	public void empDob() {
