@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/LAKSHMI SRI/Desktop/Domestic Reality/DRAUtility.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/DomesticRealtyProject/DRAUtility.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=DomesticRealtyProject/src\/test\/java&lt;org.testng.maven.test{DRAUtility.java[DRAUtility" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <folder path="/DomesticRealtyProject/Driver"/>
+        <folder path="/DomesticRealtyProject/WebDrivers"/>
+        <folder path="/DomesticRealtyProject/target"/>
+        <javaElement handleIdentifier="=DomesticRealtyProject/resource"/>
+        <folder path="/DomesticRealtyProject/src"/>
+        <folder path="/DomesticRealtyProject/Resources"/>
+        <javaElement handleIdentifier="=DomesticRealtyProject/src\/main\/java"/>
+        <javaElement handleIdentifier="=DomesticRealtyProject/src\/test\/resource"/>
+        <javaElement handleIdentifier="=DomesticRealtyProject/src\/test\/java"/>
+    </selectedElements>
+</jardesc>
