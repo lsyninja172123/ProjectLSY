@@ -6,8 +6,6 @@ public static void main(String[] args) {
 	int[] b= {5,6,7,8};
 	int[] c=new int[a.length+b.length];
 	
-	for (int i = 0; i < a.length; i++) {
-		c[i]=a[i];
-	}
+	
 }
 }
